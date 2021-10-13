@@ -41,7 +41,7 @@ public class FiveRemoveDuplicatesFromString {
 		
 		
 		System.out.println(" ");
-		int arr[] = { 1, 2, 5, 1, 7, 2, 4, 2 };
+		int[] arr = { 1, 2, 5, 1, 7, 2, 4, 2 };
 		removeDupliInteger(arr);
 	}
 }
