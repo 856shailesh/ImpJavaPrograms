@@ -1,4 +1,4 @@
-package rememberStringPrograms.LeetCode.Strings.Medium;
+package rememberStringPrograms.ImpJavaPrograms.LeetCode.Strings.Medium;
 
 //permutation and combination kind of problem
 

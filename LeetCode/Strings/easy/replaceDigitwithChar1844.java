@@ -1,4 +1,4 @@
-package rememberStringPrograms.LeetCode.Strings.easy;
+package rememberStringPrograms.ImpJavaPrograms.LeetCode.Strings.easy;
 
 //1844. Replace All Digits with Characters
 

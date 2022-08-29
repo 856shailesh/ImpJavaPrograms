@@ -1,4 +1,4 @@
-package rememberStringPrograms.LeetCode.Strings.easy;
+package rememberStringPrograms.ImpJavaPrograms.LeetCode.Strings.easy;
 
 public class validAnagram242 {
     public static boolean isAnagram(String s, String t) {

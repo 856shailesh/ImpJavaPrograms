@@ -1,4 +1,4 @@
-package rememberStringPrograms.LeetCode.Strings;
+package rememberStringPrograms.ImpJavaPrograms.LeetCode.Strings;
 
 public class StringArray_1662 {
     public static boolean arrayStringsAreEqual(String[] word1, String[] word2) {

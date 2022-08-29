@@ -1,4 +1,4 @@
-package rememberStringPrograms.LeetCode.Strings;
+package rememberStringPrograms.ImpJavaPrograms.LeetCode.Strings;
 
 //Panagram : cointains every word of english language
 public class String_1832 {

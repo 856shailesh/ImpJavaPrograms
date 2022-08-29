@@ -1,4 +1,4 @@
-package rememberStringPrograms;
+package rememberStringPrograms.ImpJavaPrograms;
 
 import java.util.Arrays;
 
